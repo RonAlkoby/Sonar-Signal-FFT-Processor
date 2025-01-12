@@ -1,4 +1,3 @@
-# Sonar-Signal-FFT-Processor
 
 # Sonar Signal FFT Processor
 

@@ -66,3 +66,8 @@ pip install numpy scipy matplotlib
 ## License
 This project is open-source and available under the MIT License.
 
+![PIC2](https://github.com/user-attachments/assets/865820a8-96f1-4e3b-84cc-51c75716f3bf)
+![PIC1](https://github.com/user-attachments/assets/9b985f41-3473-4f3c-b161-f36b9cf0cf7e)
+
+
+

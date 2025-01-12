@@ -2,9 +2,11 @@
 # Sonar Signal FFT Processor
 
 ## Overview
-The Sonar Signal FFT Processor is a Python-based GUI application for analyzing sonar audio signals. It allows users to process .wav files and extract key information such as peak frequency, amplitude, and time-frequency analysis. The application supports two modes of analysis: Active and Passive.
+The **Sonar Signal FFT Processor** is a Python-based GUI application for analyzing sonar audio signals. It allows users to process .wav files and extract key information such as peak frequency, amplitude, and time-frequency analysis. The application supports two modes of analysis: *Active* and *Passive*.
 
-**This is an ongoing project, and I plan to continue improving and enhancing it to make it much more professional.**wav` files and extract key information such as peak frequency, amplitude, and time-frequency analysis. The application supports two modes of analysis: Active and Passive.
+
+**This is an ongoing project, and I plan to continue improving and enhancing it to make it much more professional.**
+
 
 ## Features
 - **Load and Process `.wav` Files**: Upload any `.wav` file for analysis.
